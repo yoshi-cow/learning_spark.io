@@ -8,4 +8,4 @@
 * [機械学習_決定木系](https://yoshi-cow.github.io/learning_spark.io/chapter_7_Tree_Methods_with_Spark.html)
 * [機械学習_教師無し](https://yoshi-cow.github.io/learning_spark.io/chapter_8_Un_Supervised_Learning_with_Spark.html)
 * [PCAによる特徴量数選択](https://yoshi-cow.github.io/learning_spark.io/feature_selection_by_PCA.html)
-* 
+* [交差検証など](https://yoshi-cow.github.io/learning_spark.io/cross_valication.html)
